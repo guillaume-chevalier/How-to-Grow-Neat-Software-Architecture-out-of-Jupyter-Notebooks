@@ -1,5 +1,5 @@
 
-# How to code an application with notebooks
+# How to grow neat software architecture out of jupyter notebooks
 
 > **Growing software out of your notebooks - the right way.**
 
@@ -77,4 +77,4 @@ Copyright (c) 2018 Guillaume Chevalier
 - [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
 - [Dev/Consulting](http://www.neuraxio.com/en/)
 
-### Liked this article? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/How-to-code-an-application-with-notebooks/stargazers), [fork](https://github.com/guillaume-chevalier/How-to-code-an-application-with-notebooks/network/members) and share the love!
+### Liked this article? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/stargazers), [fork](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/network/members) and share the love!
