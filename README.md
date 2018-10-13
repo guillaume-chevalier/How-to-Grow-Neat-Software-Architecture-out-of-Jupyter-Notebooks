@@ -1,16 +1,19 @@
+
 # How to code an application with notebooks
 
-**Growing the code out of your notebooks - the right way.**
+> **Growing software out of your notebooks - the right way.**
 
 Have you ever been in the situation where you've got Jupyter notebooks (iPython notebooks) so huge that you were feeling stuck in your code? Or even worse: have you ever found yourself duplicating your notebook to do changes, and then ending up with lots of badly named notebooks? Well, we've all been here if using notebooks long enough. So how should we code with notebooks? 
 
 First, let's see why we need to be careful with notebooks. Then, let's see how to do TDD inside notebook cells and how to grow a neat software architecture out of your notebooks. We'll also discuss acceptance tests, unit tests, visualization tests, performance (fitting) tests, and tradeoffs to do if you want to keep your software clean when doing research and development, or research.
+
 
 ## Let's start with why.
 
 Okay, so you like notebooks. Why so? Well... it feels easier you will say. Or perhaps that it's nice to see the output live while writing code and debugging it at the same time. One way to say it goes like this: it allows faster feedback in your test-code-refactor loop of [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development). 
 
 But wait. We are giving up on TDD when we write notebooks. This is because on the moment, you can have the feedback you would like to have during test-writing but in real time. This is really about debugging the application at the same time of writing it. Thinking about it, it's a very nice way to program. But it's easy to forget to write your tests, and it's easy to shoot yourself in the foot by writing notebooks to huge.
+
 
 ## How?
 
@@ -21,6 +24,7 @@ And what about tests? Well, tests have three parts: first, you prepare it, then 
 But a better thing to do is not only to do that, but also to then extract your test instead of "just scrapping" what you just coded in this notebook. Because let's face it: most of the time this setup would either change so much that in a few moments your notebook wouldn't look the same, or it would be thrown away. This is your test. It needs to be taken care of if you want your application to be stable. Extract a test before it's too late. 
 
 Okay, so you understand the big picture on how to write viable software with notebooks. But if you're already doing a lot of TDD, you'll realize that the scenario I've just shown you is still flawed: you should write your test before! One of the reason why TDD is good is that it makes us think of the design up-front, which results in a [cleaner architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) and [cleaner code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (not speaking of being a [clean coder](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) yet). Let's rewind a bit. Now, it's easier to explain: once you've got the data, don't code yet the core of your logic at the middle of your notebook (which would be at the middle of your test). Code the assertion first. This will force you to think of the design up front: your assertion will need to call code that doesn't exist yet, so you'll start by creating the code from the perspective of the person using it! THAT - is TDD. Eureka. 
+
 
 ## What?
 
@@ -53,3 +57,24 @@ If you're working with notebooks, it is **highly likely** that you're doing rese
 ## Conclusion
 
 I hope you were satisfied by this reading. To sum up, you've learned how to grow a software architecture out of notebooks and how to properly do the TDD loop. It's important to write the tests before instead of after if you want to increase your chances of having a good software architecture. And at some point, the notebooks will be only used for visualization purposes, because everything will have been extracted to functions already. Once your software is finished, the only remaining use of your notebooks will be to continue adding new functionnalities, to visualize things, and to write tutorials on how your code works. With notebooks, however, doing unit tests remains hard. What would you do?.
+
+
+## License
+
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Copyright (c) 2018 Guillaume Chevalier
+
+
+## Extra links
+
+### Connect with me
+
+- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
+- [Twitter](https://twitter.com/guillaume_che)
+- [GitHub](https://github.com/guillaume-chevalier/)
+- [Quora](https://www.quora.com/profile/Guillaume-Chevalier-2)
+- [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
+- [Dev/Consulting](http://www.neuraxio.com/en/)
+
+### Liked this article? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/How-to-code-an-application-with-notebooks/stargazers), [fork](https://github.com/guillaume-chevalier/How-to-code-an-application-with-notebooks/network/members) and share the love!
