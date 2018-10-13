@@ -1,5 +1,5 @@
 
-# How to grow neat software architecture out of jupyter notebooks
+# How to Grow Neat Software Architecture out of Jupyter Notebooks
 
 > **Growing software out of your notebooks - the right way.**
 
