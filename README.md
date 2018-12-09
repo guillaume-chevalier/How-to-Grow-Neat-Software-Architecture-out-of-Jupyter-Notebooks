@@ -12,7 +12,7 @@ First, let's see why we need to be careful with notebooks. Then, let's see how t
 
 Okay, so you like notebooks. Why so? Well... it feels easier you will say. Or perhaps that it's nice to see the output live while writing code and debugging it at the same time. One way to say it goes like this: it allows faster feedback in your test-code-refactor loop of [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development). 
 
-But wait. We are giving up on TDD when we write notebooks. This is because on the moment, you can have the feedback you would like to have during test-writing but in real time. This is really about debugging the application at the same time of writing it. Thinking about it, it's a very nice way to program. But it's easy to forget to write your tests, and it's easy to shoot yourself in the foot by writing notebooks to huge.
+But wait. We are giving up on TDD when we write notebooks. This is because on the moment, you can have the feedback you would like to have during test-writing but in real time. This is really about debugging the application at the same time of writing it. Thinking about it, it's a very nice way to program. But it's easy to forget to write your tests, and it's easy to shoot yourself in the foot by writing notebooks too huge.
 
 
 ## How?
