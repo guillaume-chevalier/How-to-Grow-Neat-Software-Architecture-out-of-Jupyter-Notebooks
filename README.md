@@ -1,5 +1,5 @@
 
-# How to Grow Neat Software Architecture out of Jupyter Notebooks
+# [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks)
 
 > **Growing software out of your notebooks - the right way.**
 
@@ -84,3 +84,8 @@ Copyright (c) 2018 Guillaume Chevalier
 - [Dev/Consulting](http://www.neuraxio.com/en/)
 
 ### Liked this article? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/stargazers), [fork](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/network/members) and share the love!
+
+This article has been seen in:
+- [HackerNews' 1st page](https://news.ycombinator.com/item?id=18661303)
+- [PyCoder's Weekly](https://pycoders.com/issues/346)
+- And more.
