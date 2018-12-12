@@ -39,7 +39,11 @@ Either and in any ways, for every medium to big application, you'll need to get 
 
 ### What about the visualization?
 
-Once you extract things out of the notebookds, you might only need the notebook for visualization purposes. So you better have extracted everything to functions and classes so well that your notebook consists of a few lines and then your visualizations once refactored after extracting the tests. If you have too many visualizations, this might be the sign that you would have needed more notebooks instead of one big. And for the sake of having stable code and ensuring your visualizations still works without errors, you could probably extract those visualizations as "visualization tests" and be able to run those tests with your unit test runner (but "mute" the visual output when ran within the test suite). 
+Once you extract things out of the notebooks, you might only need the notebook for visualization purposes. So you better have extracted everything to functions and classes so well that your notebook consists of a few lines and then your visualizations once refactored after extracting the tests. If you have too many visualizations, this might be the sign that you would have needed more notebooks instead of one big. And for the sake of having stable code and ensuring your visualizations still works without errors, you could probably extract those visualizations as "visualization tests" and be able to run those tests with your unit test runner (but "mute" the visual output when ran within the test suite). Here are some examples of visualization notebooks I've made to monitor and validate the performance of deep learning algorithms: 
+- https://github.com/guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network/blob/master/AnalyzeTestHyperoptResults_round_1.ipynb
+- https://github.com/guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network/blob/master/AnalyzeTestHyperoptResults_round_2.ipynb
+- https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100/blob/Vooban/AnalyzeTrainHyperoptResults.ipynb
+- https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100/blob/Vooban/AnalyzeTestHyperoptResults.ipynb
 
 
 ### What about the unit tests?
