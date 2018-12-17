@@ -87,5 +87,6 @@ Copyright (c) 2018 Guillaume Chevalier
 
 This article has been seen in:
 - [HackerNews' 1st page](https://news.ycombinator.com/item?id=18661303)
+- [Nat Torkington's ideas list, O'Reilly Media](https://www.oreilly.com/ideas/four-short-links-12-december-2018)
 - [PyCoder's Weekly](https://pycoders.com/issues/346)
 - And more.
