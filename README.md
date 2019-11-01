@@ -90,3 +90,8 @@ This article has been seen in:
 - [Nat Torkington's ideas list, O'Reilly Media](https://www.oreilly.com/ideas/four-short-links-12-december-2018)
 - [PyCoder's Weekly](https://pycoders.com/issues/346)
 - And more.
+
+### Related article
+
+> #### [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html)
+> ![](https://www.neuraxio.com/en/blog/assets/pipeline_1_small.jpg)
