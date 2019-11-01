@@ -94,4 +94,4 @@ This article has been seen in:
 ### Related article
 
 > #### [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html)
-> ![](https://www.neuraxio.com/en/blog/assets/pipeline_1_small.jpg)
+> [![](https://www.neuraxio.com/en/blog/assets/pipeline_1_small.jpg)](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html)
