@@ -76,12 +76,9 @@ Copyright (c) 2018 Guillaume Chevalier
 
 ### Connect with me
 
-- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
-- [Twitter](https://twitter.com/guillaume_che)
 - [GitHub](https://github.com/guillaume-chevalier/)
-- [Quora](https://www.quora.com/profile/Guillaume-Chevalier-2)
+- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
 - [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
-- [Machine Learning Consulting](https://www.neuraxio.com/en/)
 
 ### Liked this article? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/stargazers), [fork](https://github.com/guillaume-chevalier/How-to-grow-neat-software-architecture-out-of-jupyter-notebooks/network/members) and share the love!
 
